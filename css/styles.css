@@ -1,0 +1,45 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+#octocat {
+  display: block;
+  width:384px;
+  margin: 50px auto;
+}
+.external-method-div {
+  background-color: red;
+  text-align: center;
+}
+.external-method-div .external-method-p {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+.odd-number-class-div {
+  background-color: pink;
+}
+.number-four-class-div {
+  background-color: lightgreen;
+}
+.odd-number-class-p {
+  font-size: 20px;
+}
+#number-two-p {
+  color:blue;
+  font-size: 30px;
+}
+#number-four-p {
+  font-size: 30px;
+  font-weight: bold;
+}
+/**font sizes**/
+.p-32 {
+  font-size: 32px;
+}
+/**shapes**/
+.rectangle {
+  width: 500px;
+  height: auto;
+}
