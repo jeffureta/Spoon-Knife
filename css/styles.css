@@ -43,3 +43,33 @@
   width: 500px;
   height: auto;
 }
+/**button**/
+.grouping-selectors-btn {
+  font-size: 28px;
+  font-family: Helvetica, "Times new roman", sans-serif;
+}
+.black-btn {
+  background-color: black;
+  color: white;
+}
+.yellow-btn {
+  background-color: yellow;
+}
+/**chaining selector**/
+.avatar.proportioned { 
+  width: 300px;
+  height: auto;
+}
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
+/**descendant combinator**/
+.parent-div {
+  width: 500px;
+}
+.parent-div p {
+  background-color: yellow;
+  color: red;
+  text-align: center;
+}
